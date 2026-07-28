@@ -13,3 +13,6 @@
     Pull request is like i ask my teacher to check my notebook before i submit it to the class.
 
     actually when I work in a project with my seniors or team but in different branch and I resolve bugs and now i need to merge it with main project so before merging i need to approval so i open a pull request thats a asking permission.   
+
+3. Fork
+    Fork is basically like copy someone's other notebook but i make minor changes to create more readability or easy to understand, or maybe add some new lines in old topics. its actually mean copy other's repos and make changes to make it advance.
