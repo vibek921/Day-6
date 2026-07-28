@@ -22,3 +22,7 @@
 
 5. Watch
     Watch is like subscribing a youtube channel, so I can always be updated. In git watch use for repos like telling git when something movement notice on this repo tell me.
+
+6. Release
+    Release is like i drawing for hours, sketching done, colors done now its pack to frame so everyone can see it.
+    in git when i work for a project an after solving all the possible bugs, finalize the structure and now its ready to lounch.
