@@ -19,3 +19,6 @@
 
 4. Star
     Making star s repos like bookmarking a favourite website so i can find easily or its my favourite one.
+
+5. Watch
+    Watch is like subscribing a youtube channel, so I can always be updated. In git watch use for repos like telling git when something movement notice on this repo tell me.
