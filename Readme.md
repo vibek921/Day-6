@@ -16,3 +16,6 @@
 
 3. Fork
     Fork is basically like copy someone's other notebook but i make minor changes to create more readability or easy to understand, or maybe add some new lines in old topics. its actually mean copy other's repos and make changes to make it advance.
+
+4. Star
+    Making star s repos like bookmarking a favourite website so i can find easily or its my favourite one.
